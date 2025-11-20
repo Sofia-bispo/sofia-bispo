@@ -10,11 +10,10 @@ Sou Cientista de Dados em formação e adoro a mágica de transformar um monte d
 
 Minha experiência atual combina o domínio de ferramentas de Business Intelligence com o desenvolvimento de análises em Python.
 
-| Categoria | Ferramentas & Bibliotecas |
-| :--- | :--- | 
-| **Análise em Python** | Python, **Pandas**, NumPy, Matplotlib | 
-| **Visualização & BI** | **Power BI**, Power Query, Excel|
-| **Estrutura & ML** | SQL, Scikit-learn (Começando a brincadeira de ML!) |
+| Categoria | Ferramentas & Bibliotecas | Foco e Aplicação |
+| :--- | :--- | :--- |
+| **Análise e Linguagens** | Python, SQL, **Pandas**, NumPy | Fundamentos sólidos para manipulação, limpeza e transformação de dados. |
+| **Visualização de Dados (BI)** | **Power BI**, Power Query, Excel (Avançado) | Criação de *dashboards* impactantes e otimização de processos de dados (ETL). |
 
 ---
 
