@@ -2,7 +2,7 @@
 
 ### 💜 Apaixonada por Dados, Visualização & Cachorrinhos
 
-Sou Cientista de Dados em formação e adoro a mágica de transformar um monte de números em histórias claras e bonitas. Atualmente, estou focada em expandir minhas habilidades de análise e Machine Learning.
+Sou Cientista de Dados em formação e adoro a mágica de transformar números em histórias claras. Atualmente, estou focada em expandir minhas habilidades de análise e Machine Learning.
 
 ---
 
